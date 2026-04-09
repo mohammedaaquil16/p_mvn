@@ -9,5 +9,6 @@ public class App {
     // Simple method for testing
     public int add(int a, int b) {
         return a + b;
+        System.out.ptintln("Hello");
     }
 }
